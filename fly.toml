@@ -1,10 +1,6 @@
-# fly.toml app configuration file generated for xiv-proxy on 2023-06-23T12:54:37-07:00
-#
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
-#
 
-app = "xiv-proxy"
-primary_region = "phx"
+app = "ff7-proxy"
 
 [http_service]
   internal_port = 3000
