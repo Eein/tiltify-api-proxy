@@ -2,7 +2,7 @@
 
 A very simple and exapandable api proxy for tiltify
 
-# Deploying with fly
+# Deploying with fly.io
 
 ```
 flyctl launch
